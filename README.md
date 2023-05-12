@@ -1,4 +1,4 @@
-# AutoCalib
+# Zhang Camera Calibration
 
 1) First we need to create 3 folders named "Data", "Output", "Undistort" in the directory where our  Wrapper.py is placed.
 
